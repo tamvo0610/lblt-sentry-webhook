@@ -1,0 +1,28 @@
+{
+  "defaultBot": {
+    "id": 1,
+    "token": "6728236822:AAEveRsh_mP_qObgqlE29WFykIolEp6soTY",
+    "groupId": "-1002096270907",
+    "topicId": 2
+  },
+  "bots": [
+    {
+      "id": 1,
+      "token": "6728236822:AAEveRsh_mP_qObgqlE29WFykIolEp6soTY",
+      "groupId": "-1002096270907",
+      "topicId": 2,
+      "prj": "liberty-exchange-customer",
+      "prjId": "4507026009686016",
+      "prjName": "Liberty Exchange Customer"
+    },
+    {
+      "id": 2,
+      "token": "6982473629:AAHJBY63d_0Ltoum3HarhIyOpS1RjtM9e6s",
+      "groupId": "-1002069348492",
+      "topicId": 3,
+      "prj": "belink-customer",
+      "prjId": "4507021281722368",
+      "prjName": "Belink Customer"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+version: "3.8"
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: ghcr.io/liberty-technology-co-ltd/lbt-sentry-webhook:main
+    container_name: lbt-sentry-webhook
+    ports:
+      - "3100:3000"
+    restart: unless-stopped
